@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Music Shop</string>
+    <string name="hint_email">Your email</string>
+    <string name="spiner_text">Select item</string>
+    <string-array name="list_instruments">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+    </string-array>
+    <string name="order_price">Order Price</string>
+    <string name="current_price">0 $</string>
+    <string name="quantity">Quantity</string>
+    <string name="current_quantity">0</string>
+    <string name="button_text_dec">-</string>
+    <string name="button_text_inc">+</string>
+    <string name="button_text_check">Check your order</string>
+</resources>
