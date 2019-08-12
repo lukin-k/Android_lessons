@@ -92,8 +92,8 @@ public class OrderActivity extends AppCompatActivity {
 
 //                from = "from_post_msg@gmail.com";
 //                where = "where_post_msg@yandex.ru";
-                String email_sender = "some.shop2077@gmail.com";
-                MailSenderClass sender = new MailSenderClass(email_sender, "2077superShoop");
+                String email_sender = "Your email";
+                MailSenderClass sender = new MailSenderClass(email_sender, "Your password");
 //                MailSenderClass sender = new MailSenderClass("mypostmail@gmail.com", "XXXXXX");
 
 //                sender.sendMail(, text, from, where, attach);
