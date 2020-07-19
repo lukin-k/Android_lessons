@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Bits and Pizzas</string>
+    <string name="title_top">Top fragment</string>
+
+    <string name="home_tab">Home</string>
+    <string name="pizza_tab">Pizzas</string>
+    <string name="pasta_tab">Pasta</string>
+    <string name="store_tab">Stores</string>
+
+    <string-array name="pizzas">
+        <item>Diavolo</item>
+        <item>Funghi</item>
+    </string-array>
+    <string-array name="pasta">
+        <item>Spaghetti Bolognese</item>
+        <item>Lasagne</item>
+    </string-array>
+    <string-array name="storess">
+        <item>Cambridge</item>
+        <item>Sebastopol</item>
+    </string-array>
+</resources>
